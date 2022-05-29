@@ -1,0 +1,33 @@
+::-webkit-scrollbar {
+    width: 10px;
+}
+
+::-webkit-scrollbar-track {
+    background: #fafafa;
+}
+
+::-webkit-scrollbar-thumb {
+    background: #9575cd;
+}
+
+::-webkit-scrollbar-thumb:hover {
+    background: #9575cd;
+}
+
+a {
+    color: #fafafa !important;
+    font-weight: bold;
+}
+
+#addForm {
+    display: none;
+}
+
+#update-employee{
+    pointer-events: none;
+    cursor: default;
+}
+
+td{
+    text-transform: uppercase;
+}
